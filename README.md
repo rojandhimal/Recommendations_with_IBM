@@ -20,4 +20,4 @@ The specific objective of this project is to make recomendation and the general 
 - Extras & Concluding
 
 # Acknowledgements
-Special thanks to [IBM]("https://www.ibm.com/watson") Watson for providing us the data and [Udacity]("https://udacity.com/") for giving the direction and scope of the project
+Special thanks to [IBM](https://www.ibm.com/watson) Watson for providing us the data and [Udacity](https://udacity.com/) for giving the direction and scope of the project
